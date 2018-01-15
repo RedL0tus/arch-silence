@@ -1,7 +1,7 @@
 
-# Arch-Silence GRUB2 theme
+# coreboot-Silence GRUB2 theme
 
-My flat GRUB2 theme.
+My flat GRUB2 theme forked from https://github.com/RedL0tus/arch-silence .
 
 <img src="./preview.png" width="400">
 
